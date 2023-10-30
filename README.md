@@ -1,7 +1,7 @@
 # Forecasting Model of Premier League Matches Results
 
 ## General Objective
-A repository for publishing our python discipline project, where we build a forecasting model of Premier League Matches Results using Python programing language.
+This repository was created with the aim of facilitating collaboration among project members and presenting results to third parties. In this project, we built a Machine Learning model to predict the outcomes of Premier League games. We used the Python language to develop the Random Forest model. This work was done by Ewerton Neves, Fernando Rosario, and Gustavo Oliveira under the supervision of Gustavo Sampaio.
 
 ## Databases
 Our data come from three sources:
